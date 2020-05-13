@@ -26,7 +26,9 @@
     "get-stream": "^5.1.0",
     "image-size": "^0.8.3",
     "joi": "^14.3.1",
-    "mongoose": "^5.7.4",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
+    "mongoose": "^5.9.14",
     "multer": "^1.4.2",
     "serialize-javascript": "^3.0.0",
     "validation": "^0.0.1"
