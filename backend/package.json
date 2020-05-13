@@ -28,7 +28,7 @@
     "joi": "^14.3.1",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
-    "mongoose": "^5.9.14",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.2",
     "serialize-javascript": "^3.0.0",
     "validation": "^0.0.1"
